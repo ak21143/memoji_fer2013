@@ -1,6 +1,6 @@
-Angry
+Happiness
 Fear
 Happy
-Sad
+Sadness
 Surprise
 Neutral
